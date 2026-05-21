@@ -1,0 +1,22 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main {
+  flex: 1;
+  max-width: 860px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem 1.25rem;
+}
+
+.footer {
+  border-top: var(--border);
+  padding: 1rem 2rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  color: var(--gray);
+  text-align: center;
+}
