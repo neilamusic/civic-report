@@ -37,7 +37,7 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/civic-report.git
+git clone https://github.com/neilamusic/civic-report.git
 cd civic-report
 ```
 
