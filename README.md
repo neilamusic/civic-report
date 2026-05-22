@@ -5,7 +5,6 @@
  **Live App:** [https://frontend-fnoy59i1w-neila-s-projects1.vercel.app]
 
 ---
-
 ## Features
 
 **Browse all reports** filtered by status (Open / In Progress / Resolved)
