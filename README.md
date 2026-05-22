@@ -1,18 +1,18 @@
-# 🏙️ CivicReport — Fix Your City
+ CivicReport — Fix Your City
 
 **CivicReport** is a full-stack community platform where residents can report local infrastructure issues — potholes, broken streetlights, graffiti, flooding, and more. Reports can be tracked from "Open" through "In Progress" to "Resolved," giving communities visibility into what's being fixed.
 
-🔗 **Live App:** [your-deployment-link-here]
+🔗 **Live App:** [https://frontend-fnoy59i1w-neila-s-projects1.vercel.app]
 
 ---
 
 ## Features
 
-- 📋 **Browse all reports** filtered by status (Open / In Progress / Resolved)
-- ➕ **File new reports** with category, location, and description
-- ✅ **Update report status** as issues get addressed
-- 🗑️ **Delete resolved or duplicate reports**
-- 📱 **Fully responsive** — works on mobile and desktop
+**Browse all reports** filtered by status (Open / In Progress / Resolved)
+ **File new reports** with category, location, and description
+ **Update report status** as issues get addressed
+ **Delete resolved or duplicate reports**
+ **Fully responsive** — works on mobile and desktop
 
 ---
 
@@ -129,16 +129,11 @@ Frontend will open at `http://localhost:3000`
 
 This project taught me how all the layers of a web application connect together end-to-end. Setting up Supabase as a database-as-a-service was much faster than configuring a traditional database, and using Express.js helped me understand how HTTP routing and middleware works. The biggest challenge was handling async data fetching in React and making sure errors from the backend were surfaced clearly to the user.
 
-I used AI tools to help scaffold the initial component structure and debug CORS issues between the frontend and backend.
-
 ---
 
 ## Team
 
-- **[Your Name]** — Full Stack Development
+- ** Neila Music** — Full Stack Development
 
 ---
 
-## License
-
-MIT
