@@ -1,4 +1,4 @@
- CivicReport — Fix Your City
+ CivicReport — Fix Your City Problems
 
 **CivicReport** is a full-stack community platform where residents can report local infrastructure issues — potholes, broken streetlights, graffiti, flooding, and more. Reports can be tracked from "Open" through "In Progress" to "Resolved," giving communities visibility into what's being fixed.
 
