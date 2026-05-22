@@ -134,6 +134,6 @@ This project taught me how all the layers of a web application connect together 
 ## Team
 
 - ** Neila Music** — Full Stack Development
-
+Final Project 
 ---
 
