@@ -12,7 +12,6 @@
  **Update report status** as issues get addressed
  **Delete resolved or duplicate reports**
  **Fully responsive** — works on mobile and desktop
-
 ---
 
 ## Tech Stack
